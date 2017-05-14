@@ -33,13 +33,20 @@ $ tar -zxvf gephi-0.9.1-linux.tar.gz
 	
 
 ###3.课程来源
+
 ##二、实验原理
+
 ##三、开发准备
-##四、实验准备
+
 ###1.文本就结构
+
 ###2.确定需要的变量
+
 ###3.文本中实体识别
+
 ###4.根据识别结果构建网络
+
 ###5.过滤冗余边并输出结果
+
 ###6.可视化网络
 ![实验结果：利用可视化工具gephi]({{site.baseurl}}/https://github.com/wabc1994/BuSUN-Python/blob/master/DeepinScreenshot20170514223103.png)
