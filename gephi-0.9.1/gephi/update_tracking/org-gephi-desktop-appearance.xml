@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.desktop.appearance">
+    <module_version install_time="1455480341586" last="true" origin="installer" specification_version="0.9.1">
+        <file crc="4272263542" name="config/Modules/org-gephi-desktop-appearance.xml"/>
+        <file crc="3764864754" name="modules/org-gephi-desktop-appearance.jar"/>
+    </module_version>
+</module>
